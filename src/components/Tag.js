@@ -8,7 +8,7 @@ import Usegif from '../hoooks/Usegif';
 
  const Tag = () => {
  
-     const [tag,settag]=useState('car');
+     const [tag,settag]=useState('cat');
     
 
     // const [gif,setgif]=useState('');
